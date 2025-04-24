@@ -5,8 +5,8 @@ the [Archipelago GitHub](https://github.com/ArchipelagoMW/Archipelago/releases) 
 
 ## Hammerwatch Mod Installation Procedures
 
-Download and extract the .zip file containing the installer and necessary files from the 
-[Releases](https://github.com/Parcosmic/HammerwatchAPModInstaller/releases) page. Run HammerwatchAPModInstaller.exe, and
+Download and extract the .zip file containing the built installer and necessary files from the 
+[HammerwatchAPMod Releases](https://github.com/Parcosmic/HammerwatchAPModInstaller/releases) page. Run HammerwatchAPModInstaller.exe, and
 in the file dialogue box select your Hammerwatch executable (Hammerwatch.exe), or navigate to it if it is not
 automatically selected. If the installer displays the message "Patching successful!" you know the mod is successfully
 installed! You may launch Hammerwatch as normal using Steam to play with Archipelago.
